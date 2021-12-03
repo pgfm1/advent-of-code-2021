@@ -3,6 +3,7 @@ Day 01: Sonar Sweep
 
 - [Part 1](#part-1)
 - [Part 2](#part-2)
+- [Solution](../src/day01.zig)
 
 ## Part 1
 
